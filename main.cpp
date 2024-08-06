@@ -16,3 +16,7 @@ int main() {
 
     //hello from Uttam
 }
+
+void test(){
+    cout<<"Hello from test";
+}
