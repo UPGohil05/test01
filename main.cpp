@@ -20,3 +20,7 @@ int main() {
 void test(){
     cout<<"Hello from test";
 }
+
+void test2(){
+    cout<<"Hello from test2";
+}
